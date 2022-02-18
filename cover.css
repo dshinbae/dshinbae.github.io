@@ -5,6 +5,27 @@
 
 /* Links */
 
+
+/* ESRI Branding Guidelines Black (Lightest to Darkest)
+* #dfdfdf
+* #8a8a8a8a
+* #555555
+* #404040
+*
+* ESRI Branding Green (Lightest to Darkest)
+* #bdf2c4
+* #6bc878
+* #35ac46
+* #288835
+*
+* ESRI Branding Blue (Lightest to Darkest)
+* #c7eaff
+* #50a7da
+* #007ac2
+* #00619b
+*
+*/
+
 a,
 a:focus,
 a:hover {
@@ -17,7 +38,7 @@ a:hover {
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-    color: #333;
+    color: #fff;
     text-shadow: none;
     /* Prevent inheritance from `body` */
     background-color: #fff;
