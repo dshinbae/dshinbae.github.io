@@ -18,9 +18,15 @@ I am a passionate Web Developer based in California; looking to develop a career
 
 Here are a few technologies I've been working with recently:
 
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| JavaScript   | Java   | Git   |
+| HTML   | CSS   | SQL   |
+
 * JavaScript
 * Java
 * Git
 * HTML
 * CSS
 * SQL
+* WordPress
