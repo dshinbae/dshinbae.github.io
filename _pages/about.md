@@ -18,26 +18,10 @@ I am a passionate Web Developer based in California; looking to develop a career
 
 Here are a few technologies I've been working with recently:
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| JavaScript   | Java   | Git   |
-| HTML   | CSS   | SQL   |
-
-* JavaScript | * Java
-* Git | * HTML
-* CSS | * SQL
+* JavaScript
+* Java
+* Git
+* HTML
+* CSS
+* SQL
 * WordPress
-
-{% assign rows = content | split:"@row" %}
-{% for row in rows %}
-  <div class="row" id="row-{{ forloop.index }}">
-
-    {% assign columns = row | split:"@column" %}
-    {% for column in columns %}
-      <div class="col-sm-{{ 12 | divided_by:forloop.length }}">
-        {{ column }}
-      </div>
-    {% endfor %}
-
-  </div>
-{% endfor %}
