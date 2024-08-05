@@ -27,12 +27,11 @@ Here are a few technologies I've been working with recently:
   * SQL
   * WordPress
 
-*** promo
 #### Interests
 
   * Graphic Design
   * Back-End Web Development
   * Creativity
   * Modern Art
-***
+
 |||---|||
