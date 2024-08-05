@@ -14,15 +14,8 @@ Creative life-long learner and professional developer with 3 years of work exper
 
 I am a passionate Web Developer based in California; looking to develop a career in Software Engineering. I'm learning more about Back-end Development and seek to continue studying more about Software Development and Programming. I had the opportunity to work in Education Tech and Non-profit and am a proud Purdue University Boilermaker. 
 
-# Interests
-
-  * Graphic Design
-  * Back-End Web Development
-  * Creativity
-  * Modern Art
-
-
-# Technologies
+|||---|||
+#### Technologies
 
 Here are a few technologies I've been working with recently:
 
@@ -33,3 +26,13 @@ Here are a few technologies I've been working with recently:
   * CSS
   * SQL
   * WordPress
+
+*** promo
+#### Interests
+
+  * Graphic Design
+  * Back-End Web Development
+  * Creativity
+  * Modern Art
+***
+|||---|||
